@@ -1,6 +1,7 @@
 //Author : Abdulhamit Sahadi
 //Created: July 19, 2024
 //Problem Link: https://workat.tech/problem-solving/practice/cumulative-sum
+
 #include<iostream>
 #include<vector>
 
